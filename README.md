@@ -14,7 +14,7 @@ Business Intelligence guy equally interested in web dev.
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nuxtjs.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/laravel.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img src="https://cdn.worldvectorlogo.com/logos/yii2.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/vuejs.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/directus.svg" alt="CSS Logo" width="50" height="50"/>
