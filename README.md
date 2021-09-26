@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Xavier
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ffifteenpeas">
 
 <!--
 **xavsio4/xavsio4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
