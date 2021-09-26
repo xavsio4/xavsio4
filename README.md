@@ -14,10 +14,12 @@ Business Intelligence guy equally interested in web dev.
 
 🧰 Toolbox
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img src="https://cdn.worldvectorlogo.com/logos/yii2.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/vuejs.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/directus.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css3-original.svg" alt="css3" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCss" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width="50" height="50" />
+
 
 ---
 
